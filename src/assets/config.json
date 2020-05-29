@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Sezione 1",
+    "children": [
+      {
+        "title": "Argomento 1",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "title": "Sezione 2",
+    "children": [
+      {
+        "title": "Argomento 1",
+        "image": ""
+      },
+      {
+        "title": "Argomento 2",
+        "image": ""
+      }
+    ]
+  }
+]
